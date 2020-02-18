@@ -12,3 +12,27 @@ header,
     }
 
 .carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+.site_title{
+    font-size: 5em;
+    text-align: left;
+    margin-left:-3em;
+    font-weight: 500;
+}
+
+.definition{
+    padding-top:0em;
+    padding-left: 0.5em;
+    font-size: 2em;
+    border-left: 10px solid red;
+}
+
+.work_done_tittle{
+    font-size: 5em;
+    color: red;
+    font-weight: 100;
+}
+
+.work_done_card{
+
+}
